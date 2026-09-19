@@ -3,8 +3,8 @@
 ! changed
 
 == SimplyWiki 2.0.0 ==
-Status: Release Candidate
-Released: September 2025
+Status: Final
+Released: September 2026
 
 Added
 * Templates for all pages

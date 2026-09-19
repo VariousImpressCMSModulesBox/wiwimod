@@ -11,7 +11,7 @@
 $modversion = array (
 		'name' => _MI_SWIKI_NAME,
 		'version' => '2.0.0',
-		'status' => 'RC',
+		'status' => 'Final',
 		'description' => _MI_SWIKI_DESC,
 		'author' => 'Steve Kenow <skenow@impresscms.org>',
 		'credits' => 'Based on Wiwimod by Xavier JIMENEZ; with further contributions by Gizmhail and GibaPHP',
@@ -31,7 +31,11 @@ $modversion = array (
 		'submit_bug' => '',
 		'submit_feature' => '',
 		'warning' => '',
-		'author_word' => '_MI_SWIKI_AUTHOR_WORD'
+		'author_word' => '_MI_SWIKI_AUTHOR_WORD',
+		'min_php' => '5.6',
+		'max_php' => "8.0",
+		'min_impresscms' => "1.3",
+		'max_impressscms' => "2.0.0"
 );
 
 // Tables created by the SQL file (without prefix!)

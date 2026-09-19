@@ -3,7 +3,7 @@ What's New in 2.0
 	* Templates for all pages
 	* Meta keywords and meta description fields to customize each page's snippets
 	* Ability to sort pages by number of views in admin area
-	* Supports PHP 7.x
+	* Supports PHP 8.x
 	* Default values for datetime fields compliant with MySQL Strict Mode (required in newer versions of MyWQL)
 	* Editor selection in preferences is clearer - use the site default, or specify an alternate editor
 	* Page visits are updated for subpages (embedded in another page), context and showpage blocks
